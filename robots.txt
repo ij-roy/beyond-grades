@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ij-roy.github.io/beyond-grades/sitemap.xml
